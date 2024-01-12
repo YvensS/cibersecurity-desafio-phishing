@@ -1,6 +1,5 @@
 # Phishing para captura de senhas do Facebook
 
-#SONO
 
 ### Ferramentas
 
@@ -14,10 +13,11 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Web Templates ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.twitter.com
+
 
 ### Resutados
 
-![Alt text](./password.png "Optional title")
+![CAPTURA](https://github.com/YvensS/cibersecurity-desafio-phishing/assets/36092996/55b957ec-fc34-40a7-85c6-9aba4fc3c5ba)
